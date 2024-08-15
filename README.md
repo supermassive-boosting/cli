@@ -1,1 +1,1 @@
-# superbash
+# Supermassive CLI
